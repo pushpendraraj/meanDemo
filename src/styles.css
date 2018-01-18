@@ -1,0 +1,25 @@
+#home-video{width: 100%;}
+.intro-body{position: relative;}
+.home-text{position: absolute;
+    top: 0px;
+    margin: auto;
+height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.brand-heading{margin-top: 13%;
+   }
+footer{
+    padding:15px 0;
+}
+.flash-message {
+    padding: 10px !important;
+    text-align: center;
+    z-index: 99999;
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.flash-message p{margin:.20% 0 !important;}
